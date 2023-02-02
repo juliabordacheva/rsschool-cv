@@ -17,3 +17,9 @@
  * PHP Basic
 
  *************************************
+
+ ### Languages
+ * English - preintermidiate
+ * French - basic
+ * Russian - native
+
